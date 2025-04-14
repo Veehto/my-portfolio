@@ -4,7 +4,7 @@ A responsive personal web portfolio made only with HTML, CSS, and JavaScript, ge
 * The portfolio is deployed currently on Github Pages: https://veehto.github.io/my-portfolio/
 
 
-## Feedback recibido durante curso Adalid Chile
+## Feedback curso Adalid Chile
 ### Portafolio
 * Cambios generales:
     - Se suavizan los bordes de la barra de navegación, footer, tarjetas y foto siguiendo una proporción.
@@ -74,13 +74,13 @@ Skills and Contact sections responsive behavior.
 ## Execute Code locally 🚀
 These instructions will allow you to get a working copy of the project into your local environment for development and testing purposes.
 
-### prerequisites 📋
+### Prerequisites 📋
 To run this project you need to have installed:
 
 - [Node.js](https://nodejs.org/) (v14.0.0 or higher)
 - [npm](https://www.npmjs.com/) (v6.0.0 or higher)
 
-### Instalation 🔧
+### Installation 🔧
 1. Clone the repository:
 
 ```bash
@@ -102,7 +102,7 @@ npm run dev
 4. Page will be ready to check on `http://localhost:5173`.
 
 
-## Desploy 📦
+## Deployment 📦
 To create a production version and deploy it:
 
 1. build the project:
