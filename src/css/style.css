@@ -152,7 +152,7 @@ input:focus-visible + .slider {
    box-shadow: 0 0 0 2px var(--track_active_color);
 }
   
-  /* Raise thumb when hovered */
+/* Raise thumb when hovered */
 input:hover + .slider:before {
    transform: translateY(-0.3em);
    box-shadow: 0 0.3em 0 var(--outline_color);
@@ -186,6 +186,7 @@ input:hover:checked + .slider:before {
 
     #logo a {
         font-size: 1.5rem;
+        margin-left: 0;
     }
     
     header .mobile-navigation ul {
@@ -200,12 +201,16 @@ input:hover:checked + .slider:before {
 }
 
 /* Media query for Nav Section, 2 */
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 629px) {
+    header h1 {
+        line-height: 20px;
+    }
+
     #logo a {
         text-decoration: none;
         font-size: 1.2rem;
-        font-weight: bold;
-        color: #F5F5F5;
+        /* font-weight: bold;
+        color: #F5F5F5; */
     }
 }
 
@@ -394,9 +399,9 @@ summary {
     .articles article {
       container: card/inline-size;
     }
-    .articles .article-body p {
+    /* .articles .article-body p {
       display: none;
-    }
+    } */
 }
   
 @container card (min-width: 380px) {
@@ -452,7 +457,7 @@ button {
     box-sizing: border-box;
     border: 2px solid var(--button_outline_color);
     border-radius: var(--button_radius);
-    padding: 0.75em 1.5em;
+    padding: 0.70em 1.2em;
     background: var(--button_color);
     color: var(--button_outline_color);
     transform: translateY(-0.2em);
