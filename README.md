@@ -4,6 +4,31 @@ A responsive personal web portfolio made only with HTML, CSS, and JavaScript, ge
 * The portfolio is deployed currently on Github Pages: https://veehto.github.io/my-portfolio/
 
 
+## Feedback recibido durante curso Adalid Chile
+### Portafolio
+* Cambios generales:
+    - Se suavizan los bordes de la barra de navegación, footer, tarjetas y foto siguiendo una proporción.
+    - Se corrigen comportamientos inesperados de la responsividad del sitio.
+
+* Se cambia el diseño de las tarjetas de la sección de Proyectos:
+    - Interacción con las tarjetas ahora es más intuitiva.
+    - Comunica de mejor manera las tecnologías usadas en los proyectos.
+    - Mejora la responsividad de las tarjetas para pantallas más pequeñas.
+    - Se suavizan los borders de las tarjetas.
+    - Se cambia el fondo blanco puro de las tarjetas.
+
+* Sección de Habilidades:
+    - Se agregan dos íconos más.
+    - Los íconos ahora se despliegan de forma equitativa, también tomando en cuenta la responsividad del sitio.
+
+### Proyecto final: Web App Clínica/Hospital
+* Sección de Inicio de Sesión:
+    - Se mejora el estilo y presentación de el componente Login.
+
+* Sección Doctores:
+    - Se mejora la responsividad de las tarjetas de doctores.
+
+
 ## Main Features
 - **Responsive Design**: Adapts to any device (mobile, tablet, desktop).
 - **Sections**: Home, About Me, Projects, Skills (technologies I use) and Contact.
@@ -11,31 +36,31 @@ A responsive personal web portfolio made only with HTML, CSS, and JavaScript, ge
 
 
 ## Screenshots
-![Home, About me](src/images/screenshots/1.png)
+![Home, About me](src/images/screenshots/1.png)<br>
 Home with a Navbar, About me section with a description and a picture.
 
-![Projects](src/images/screenshots/2.png)
+![Projects](src/images/screenshots/2.png)<br>
 Project section, with some personal projects.
 
-![Projects](src/images/screenshots/3.png)
+![Projects](src/images/screenshots/3.png)<br>
 Project section, clicking the project card's title shows a description.
 
-![Skills](src/images/screenshots/4.png)
+![Skills](src/images/screenshots/4.png)<br>
 Skills section, having a list of icons representing the technologies I have used. 
 
-![Contact, Footer](src/images/screenshots/5.png)
+![Contact, Footer](src/images/screenshots/5.png)<br>
 Contact section, Showing icons that take you to my LinkedIn page, Github page, and a mail icon that copies my email to your clipboard on click.
 
-![Home, About me](src/images/screenshots/6.png)
+![Home, About me](src/images/screenshots/6.png)<br>
 Home, About me sections responsive behavior.
 
-![Home, About me](src/images/screenshots/7.png)
+![Home, About me](src/images/screenshots/7.png)<br>
 Home, About me sections responsive behavior, smaller screens.
 
-![Projects](src/images/screenshots/8.png)
+![Projects](src/images/screenshots/8.png)<br>
 Projects section responsive behavior.
 
-![Skills, Contact](src/images/screenshots/9.png)
+![Skills, Contact](src/images/screenshots/9.png)<br>
 Skills and Contact sections responsive behavior.
 
 
