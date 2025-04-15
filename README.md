@@ -21,13 +21,6 @@ A responsive personal web portfolio made only with HTML, CSS, and JavaScript, ge
     - Se agregan dos íconos más.
     - Los íconos ahora se despliegan de forma equitativa, también tomando en cuenta la responsividad del sitio.
 
-### Proyecto final: Web App Clínica/Hospital
-* Sección de Inicio de Sesión:
-    - Se mejora el estilo y presentación de el componente Login.
-
-* Sección Doctores:
-    - Se mejora la responsividad de las tarjetas de doctores.
-
 
 ## Main Features
 - **Responsive Design**: Adapts to any device (mobile, tablet, desktop).
@@ -152,7 +145,7 @@ npm run build
 ```
 
 
-## Roadmap (Future implementatios)
+## Roadmap (Future implementations)
 * Add a Certifications section showing completed (and/maybe in progress) certifications.
 * Implement light/dark themes.
 * implement site's data in JSON files for dynamic rendering.
